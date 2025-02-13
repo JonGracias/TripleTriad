@@ -1,6 +1,9 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
 *.ucas filter=lfs diff=lfs merge=lfs -text
-windows/Engine/** filter=lfs diff=lfs merge=lfs -text
-windows/TripleTriad/Binaries/** filter=lfs diff=lfs merge=lfs -text
-windows/TripleTriad/Content/** filter=lfs diff=lfs merge=lfs -text
-windows/TripleTriad/Saved/** filter=lfs diff=lfs merge=lfs -text
+Windows/TripleTriad/Binaries/** filter=lfs diff=lfs merge=lfs -text
+Windows/TripleTriad/Content/** filter=lfs diff=lfs merge=lfs -text
+Windows/TripleTriad/Saved/** filter=lfs diff=lfs merge=lfs -text
+Windows/Engine/Binaries/** filter=lfs diff=lfs merge=lfs -text
+Windows/Engine/Config/** filter=lfs diff=lfs merge=lfs -text
+Windows/Engine/Plugins/** filter=lfs diff=lfs merge=lfs -text
+Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe filter=lfs diff=lfs merge=lfs -text
